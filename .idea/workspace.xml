@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9a653617-2fcc-4d0d-8b1c-13a27be5b443" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,10 +42,10 @@
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="141" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.736@0.0.1366.736" timestamp="1623180086173" />
-    <state x="100" y="100" width="1166" height="536" key="AVDManager" timestamp="1623933520198">
+    <state x="100" y="100" width="1166" height="536" key="AVDManager" timestamp="1623952160134">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state x="100" y="100" width="1166" height="536" key="AVDManager/0.0.1366.736@0.0.1366.736" timestamp="1623933520198" />
+    <state x="100" y="100" width="1166" height="536" key="AVDManager/0.0.1366.736@0.0.1366.736" timestamp="1623952160134" />
     <state x="172" y="0" width="1106" height="736" key="SettingsEditor" timestamp="1623179954602">
       <screen x="0" y="0" width="1366" height="736" />
     </state>

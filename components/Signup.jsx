@@ -9,6 +9,7 @@ export default function Signup({ navigation }) {
         <Text style={styles.instructions}>
           To share a photo from your phone with a friend, just press the button below!
         </Text>
+        
 
         <TouchableOpacity
           onPress={() => alert('Hello, world!')}
